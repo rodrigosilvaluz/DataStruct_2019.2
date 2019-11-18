@@ -62,7 +62,7 @@ Se n > 0
 sobre a lista, como também, da ***frequência*** com que estas operações serão realizadas.Determinadas
 representações são mais favoráveis a algumas operações, enquanto outras não são, no sentido de exigir um maior esforço computacional para a sua execução.
 
-####As Principais formas de representação são:
+#### As Principais formas de representação são:
 
 - ***Por contiguidade*** (Lista Sequencial) -  **Vetor**
 - ***Por encadeamento*** (Lista ligada) -  **Ponteiro**
