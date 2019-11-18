@@ -67,6 +67,27 @@ representações são mais favoráveis a algumas operações, enquanto outras n�
 - ***Por contiguidade*** (Lista Sequencial) -  **Vetor**
 - ***Por encadeamento*** (Lista ligada) -  **Ponteiro**
 
+#### Por Contiguidade:
+>- Explora a sequencialidade da memória do computador
+
+>- Os nós (registros) são armazenados em endereços contiguos (lado a lado)
+>- Relação de ordem: se o endereço do nó xk é conhecido, o endereço do nó xk+1 pode ser determinado
+
+***Imlementação***
+>A maneira mais simples e obvia de implementar uma lista em computador é através da utilização de um vetor. Esta representação é bastante satisfatória para algumas operações e bastante ineficiente para otras. Ela é utilizada em situações em que as inclusões/exclusões são realizadas sempre no final da lista (não são necessarias inclusões/exclusões em posições intermadiárias).Apresenta-se a seguir, vantagens e desvantagens da implementação de uma lista em um vetor.
+
+***Vantagem***
+
+Pode -se facilmente ***alterar*** ou ***determinar*** o valor de um dado.
+
+***Desvantagem***
+
+1. É preciso especificar antecipadamente a dimensão máxima do vetor onde a lista vai ser implementada.
+
+2. Inserções e remoções podem exigir considerável movimentação de dados.
+
+
+
 
 
 
