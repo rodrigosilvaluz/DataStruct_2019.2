@@ -22,13 +22,13 @@ Como fichas podem ser inseridas ou removidas, o tamanho da
 
 1.1.2 ***CONCEITUAÇÃO***
 
->Lista é a estrutura que permite representar um conjunto de dados de forma a preservar a ***relação de ordem**** entre eles. Uma lista é composta de nós (registros), sendo que cada nó
+>Lista é a estrutura que permite representar um conjunto de dados de forma a preservar a ***relação de ordem*** entre eles. Uma lista é composta de nós (registros), sendo que cada nó
 >pode conter um dado primitivo ou um dado composto.
 
 >***Ex.1 - Um lista com as taxas mensais de inflação nos ultimos 24 meses. (Dado Simples)***
-
+>
 >***Ex.2 - Uma lista com Nome e Matricula dos alunos de uma escola.(Dado Composto)***
-
+>
 >***Ex.3 - Uma lista com Nome e Salários dos deputados estaduais do estado do RJ.***
 
 
