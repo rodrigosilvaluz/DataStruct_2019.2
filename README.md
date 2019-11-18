@@ -1,6 +1,6 @@
 # **Curso de Estrutura de Dados 2019.2 - UNICARIOCA -  Prof: Manuel Martins Filho**
 
-![](https://www.google.com/search?q=tux.png&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjuyNuY7vLlAhUfIrkGHVVrCBYQ_AUoAXoECAkQAw&biw=1366&bih=622#imgrc=bW9oGOggSZalwM:) 
+![](/home/rodrigo/git-repository/DataStruct_2019.2/tux.jpeg) 
 	
 ### 1. Tipos de Estruturas de Dados  
 
@@ -48,8 +48,7 @@ Se n > 0
 
 >L = { x1,x2,x3,....,xn } -> LIsta com nós
 
-
-![](https://www.google.com/search?biw=1366&bih=622&tbm=isch&sa=1&ei=JxLSXZWWDai-5OUPvv6quAw&q=data+structs.png&oq=data+structs.png&gs_l=img.3...2968.6402..6714...0.0..0.93.1022.12......0....1..gws-wiz-img.......0j0i7i30j0i7i10i30j0i7i5i30.MJ7HfcvWISk&ved=0ahUKEwjVxfvr6vLlAhUoH7kGHT6_CscQ4dUDCAc&uact=5#imgrc=GPKzYjuzqoQ7pM:) 
+![](/home/rodrigo/git-repository/DataStruct_2019.2/struct_node.png) 
 
 ## Principais Operações sobre Listas
 
