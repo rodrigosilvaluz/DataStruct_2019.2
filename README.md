@@ -34,7 +34,7 @@ pode conter um dado primitivo ou um dado composto.
 > DEFINIÇÃO: **Lista** é uma coleção ***ordenada*** de componentes do mesmo tipo .
 >Tipicamente este é o tipo de registro (struct or record).
 
-> DEFINIÇÃO FORMAL: **Lista** é um conjunto de n nós **x1,x2...xn** organizados estruturalmente de forma a refletir as posições  relativas dos mesmos.
+> DEFINIÇÃO FORMAL: **Lista** é um conjunto de n nós **x1,x2,...xn** organizados estruturalmente de forma a refletir as posições  relativas dos mesmos.
 
 ```
 Se n > 0
@@ -106,6 +106,11 @@ Pode -se facilmente ***alterar*** ou ***determinar*** o valor de um dado.
  >COR = 00 - **Nó Corrente da Lista**   *Percorre a Lista*
  
  >NUM = 03 - **Quantidade de Elementos**   *Numero de nós*
+ 
+ 
+ **DIM**: É a dimensão do vetor onde está a Lista
+ 
+ >- Assim uma Lista (L) é  = Descritores + Nós (informações)
 
 
 
