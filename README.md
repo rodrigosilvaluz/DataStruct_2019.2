@@ -16,19 +16,19 @@
 
 >Os elementos de uma agenda são fichas com Nomes, Endereço e Telefone , organizadas
 >em ordem alfabética. Tomando -se o devido cuidados quando da inserção de novas fichas,
->ou seja, respeitando-se a ordem alafabética, pode -se facilmente acessar o dado desejado sempre que for necessário . Como fichas podem ser inseridas ou removidas, o tamanho da 
-agenda (n de fichas) é variavel ao longo do tempo.
+>ou seja, respeitando-se a ordem alafabética, pode -se facilmente acessar o dado desejado sempre que for >necessário . Como fichas podem ser inseridas ou removidas, o tamanho da 
+>agenda (n de fichas) é variavel ao longo do tempo.
 
 1.1.2 ***CONCEITUAÇÃO***
 
->Lista é a estrutura que permite representar um conjunto de dados de forma a preservar a ***relação de ordem**** entre eles. Uma lista é composta de nós (registros), sendo que cada nó
-pode conter um dado primitivo ou um dado composto.
-
-***Ex.1 - Um lista com as taxas mensais de inflação nos ultimos 24 meses. (Dado Simples)***
-
-***Ex.2 - Uma lista com Nome e Matricula dos alunos de uma escola.(Dado Composto)***
-
-***Ex.3 - Uma lista com Nome e Salários dos deputados estaduais do estado do RJ.***
+>Lista é a estrutura que permite representar um conjunto de dados de forma a preservar a ***relação de >ordem**** entre eles. Uma lista é composta de nós (registros), sendo que cada nó
+>pode conter um dado primitivo ou um dado composto.
+>
+>***Ex.1 - Um lista com as taxas mensais de inflação nos ultimos 24 meses. (Dado Simples)***
+>
+>***Ex.2 - Uma lista com Nome e Matricula dos alunos de uma escola.(Dado Composto)***
+>
+>***Ex.3 - Uma lista com Nome e Salários dos deputados estaduais do estado do RJ.***
 
 
 > DEFINIÇÃO: **Lista** é uma coleção ***ordenada*** de componentes do mesmo tipo .
@@ -62,9 +62,9 @@ Se n > 0
 
 1.1.4 ***FORMAS DE REPRESENTAÇÃO***
 
->Exitem várias formas de representar internamente uma lista no computador. Obviamente a escolha da representação mais adequada depende não só dos ***tipos de operações*** que se deseja executar 
-sobre a lista, como também, da ***frequência*** com que estas operações serão realizadas.Determinadas
-representações são mais favoráveis a algumas operações, enquanto outras não são, no sentido de exigir um maior esforço computacional para a sua execução.
+>Exitem várias formas de representar internamente uma lista no computador. 
+Obviamente a escolha da  representação mais adequada depende não só dos ***tipos de operações*** que se deseja executar sobre a lista, como também, da ***frequência*** com que estas operações serão realizadas.
+>Determinadas representações são mais favoráveis a algumas operações, enquanto outras não são, no sentido de exigir  um maior esforço computacional para a sua execução.
 
 #### As Principais formas de representação são:
 
@@ -73,7 +73,7 @@ representações são mais favoráveis a algumas operações, enquanto outras n�
 
 #### Por Contiguidade:
 >- Explora a sequencialidade da memória do computador
-
+>
 >- Os nós (registros) são armazenados em endereços contiguos (lado a lado)
 >- Relação de ordem: se o endereço do nó xk é conhecido, o endereço do nó xk+1 pode ser determinado
 
