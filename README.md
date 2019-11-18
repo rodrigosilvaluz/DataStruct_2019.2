@@ -1,6 +1,8 @@
 # **Curso de Estrutura de Dados 2019.2 - UNICARIOCA -  Prof: Manuel Martins Filho**
+
+![](/home/rodrigo/Pictures/logo3.jpeg) 
 	
-### 1. Tipos de Estruturas de Dados
+### 1. Tipos de Estruturas de Dados  
 
 **1.1 Listas Lineares**
 
@@ -46,6 +48,9 @@ Se n > 0
 
 >L = { x1,x2,x3,....,xn } -> LIsta com nós
 
+
+![](/home/rodrigo/Pictures/struct_node.png) 
+
 ## Principais Operações sobre Listas
 
 >1. Acessar o k-ésimo nó da lista para obter e/ou alterar o dado nele contido
@@ -85,6 +90,16 @@ Pode -se facilmente ***alterar*** ou ***determinar*** o valor de um dado.
 1. É preciso especificar antecipadamente a dimensão máxima do vetor onde a lista vai ser implementada.
 
 2. Inserções e remoções podem exigir considerável movimentação de dados.
+***
+
+#### Definições para Implementação em Pascal
+
+
+
+
+
+
+
 
 
 
