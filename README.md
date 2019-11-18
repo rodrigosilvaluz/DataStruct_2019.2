@@ -100,18 +100,18 @@ Pode -se facilmente ***alterar*** ou ***determinar*** o valor de um dado.
  ***Descritores da Lista (Definem estado da lista)***
  
  >INF = 01 - **Inicio da Lista**     *Posição do primeiro nó*
- 
+ >
  >FIM = 03 - **Fim da Lista**       *Posição do ultimo nó*
- 
+ >
  >COR = 00 - **Nó Corrente da Lista**   *Percorre a Lista*
- 
+ >
  >NUM = 03 - **Quantidade de Elementos**   *Numero de nós*
  
  
  **DIM**: É a dimensão do vetor onde está a Lista
  
  >- Assim uma Lista (L) é  = Descritores + Nós (informações)
-
+>
 
 
 
